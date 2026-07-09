@@ -10,7 +10,8 @@ If you want your UserID to be added or removed, message me on Discord: golden.is
 <a href="https://github.com/GoldenIsAProtogen/GoldensGorillaNametags/releases/latest">
     <img src="https://img.shields.io/github/downloads/GoldenIsAProtogen/GoldensGorillaNametags/total?label=Downloads&style=for-the-badge&color=lime" alt="Downloads">
     <img src="https://img.shields.io/github/v/release/GoldenIsAProtogen/GoldensGorillaNametags?label=Version&style=for-the-badge&color=blue" alt="Version">
-   <img src="https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge" alt="Status: Inactive"><img src="https://img.shields.io/badge/Status-Inactive-lightgrey?style=for-the-badge" alt="Status: Inactive">
+   <img src="https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge" alt="Status: Inactive">
+    <img src="https://img.shields.io/badge/Status-Inactive-lightgrey?style=for-the-badge" alt="Status: Inactive">
 </a>
 
 ### Features
